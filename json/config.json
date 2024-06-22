@@ -140,13 +140,12 @@
       "changeable": 1
     },
     {
-      "key": "csp_QuPanSou",
-      "name": "🤓趣盘搜┃搜索",
+      "key": "Jianpian",
+      "name": "\uD83D\uDCC0 荐片 | 视频",
       "type": 3,
-      "api": "csp_QuPanSou",
+      "api": "csp_Jianpian",
       "searchable": 1,
-      "changeable": 0,
-      "timeout": 15
+      "filterable": 1
     },
     {
       "key": "yppan",
