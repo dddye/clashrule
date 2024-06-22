@@ -147,11 +147,8 @@
     "searchable" : 1,
     "filterable" : 1,
     "changeable" : 0,
-    "ext" : {
-      "token" : "http://newjess01.19988675.xyz:9876/ali/token/79bb4a322e5d44ffaa2c9df9f8a51ec4"
-    },
+    "ext" : "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
     "timeout" : 15,
-    "jar" : "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;c49d9daef4407dcbba27dfcca04149e3"
   },
     {
       "key": "yppan",
