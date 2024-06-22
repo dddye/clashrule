@@ -140,14 +140,17 @@
       "changeable": 1
     },
     {
-    "key" : "纸条",
-    "name" : "\uD83D\uDDDE纸条┃搜索",
-    "type" : 3,
-    "api" : "csp_XiaoZhiTiao",
-    "searchable" : 1,
-    "changeable" : 0,
-    "ext" : "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-    "timeout" : 15
+      "key": "csp_QuPanSou",
+      "name": "🤓趣盘搜┃搜索",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 15
     },
     {
       "key": "yppan",
