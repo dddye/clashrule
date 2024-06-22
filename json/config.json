@@ -1,5 +1,5 @@
 {
-  "spider": "../jar/spider.jar",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;813dac753a6bc6555f8851b57c92b55d",
   "sites": [
     {
       "key": "Douban",
