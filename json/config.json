@@ -146,10 +146,6 @@
       "api": "csp_QuPanSou",
       "searchable": 1,
       "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
       "timeout": 15
     },
     {
