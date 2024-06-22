@@ -139,17 +139,16 @@
       "searchable": 1,
       "changeable": 1
     },
-	{
+    {
     "key" : "纸条",
     "name" : "\uD83D\uDDDE纸条┃搜索",
     "type" : 3,
     "api" : "csp_XiaoZhiTiao",
     "searchable" : 1,
-    "filterable" : 1,
     "changeable" : 0,
     "ext" : "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
     "timeout" : 15
-  },
+    },
     {
       "key": "yppan",
       "name": "云盘盘",
