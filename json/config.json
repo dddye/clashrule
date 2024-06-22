@@ -139,6 +139,20 @@
       "searchable": 1,
       "changeable": 1
     },
+	{
+    "key" : "纸条",
+    "name" : "\uD83D\uDDDE纸条┃搜索",
+    "type" : 3,
+    "api" : "csp_XiaoZhiTiao",
+    "searchable" : 1,
+    "filterable" : 1,
+    "changeable" : 0,
+    "ext" : {
+      "token" : "http://newjess01.19988675.xyz:9876/ali/token/79bb4a322e5d44ffaa2c9df9f8a51ec4"
+    },
+    "timeout" : 15,
+    "jar" : "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;c49d9daef4407dcbba27dfcca04149e3"
+  },
     {
       "key": "yppan",
       "name": "云盘盘",
