@@ -12,6 +12,37 @@
       }
     },
     {
+      "key": "BD",
+      "name": "BD|首页",
+      "type": 3,
+      "api": "csp_BD",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+      }
+    },
+    {
+      "key": "NN",
+      "name": "泥巴|首页",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    },
+    {
       "key": "Liangzi",
       "name": "量子影视",
       "type": 3,
@@ -21,35 +52,11 @@
       "changeable": 0,
       "ext": {
       }
-    },
-    {
+    },  {
       "key": "ChangZhang",
       "name": "厂长影视",
       "type": 3,
       "api": "csp_ChangZhang",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {
-      }
-    },
-    {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {
-      }
-    },
-
-    {
-      "key": "Supjav",
-      "name": "Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
       "searchable": "1",
       "filterable": "0",
       "changeable": 0,
