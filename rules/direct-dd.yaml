@@ -6,5 +6,6 @@ payload:
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN,pass.19988675.xyz
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-KEYWORD,syncthing 
   - IP-CIDR,146.56.165.71/32
   - IP-CIDR,140.238.12.220/32
