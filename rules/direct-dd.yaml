@@ -6,8 +6,14 @@ payload:
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN,pass.19988675.xyz
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,mihdr.top
+  - DOMAIN-SUFFIX,91muou.icu
+  - DOMAIN-SUFFIX,libvio.cc
   - DOMAIN-KEYWORD,syncthing
   - DOMAIN-KEYWORD,wogg
   - DOMAIN-KEYWORD,feimaoai
+  - DOMAIN-SUFFIX,suoniapi.com
+  - DOMAIN-SUFFIX,txfpan.top
+  - DOMAIN-SUFFIX,zxzja.com
   - IP-CIDR,140.238.3.83/32
   - IP-CIDR,140.238.12.220/32
