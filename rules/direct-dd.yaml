@@ -18,105 +18,105 @@ payload:
   - IP-CIDR,140.238.3.83/32
   - IP-CIDR,140.238.12.220/32
   # 小说列表
-  - DOMAIN, www.tycqzw.la
-  - DOMAIN, alicesw.org
-  - DOMAIN, api.basusan.com
-  - DOMAIN, api.dswang.org
-  - DOMAIN, fapi.fanxxs.com
-  - DOMAIN, luoxiadushu.com
-  - DOMAIN, m.18ys.net
-  - DOMAIN, m.1qxs.com
-  - DOMAIN, m.20xs.org
-  - DOMAIN, m.23hh.la
-  - DOMAIN, m.bayizww.com
-  - DOMAIN, m.bixiange.me
-  - DOMAIN, m.bxwxue.com
-  - DOMAIN, m.damaoli.com
-  - DOMAIN, m.diyibanzhu.buzz
-  - DOMAIN, m.douyinxs.com
-  - DOMAIN, m.hltxt.com
-  - DOMAIN, m.jingp.com
-  - DOMAIN, m.kekewx.com
-  - DOMAIN, m.miaobige.com
-  - DOMAIN, m.nshkedu.com
-  - DOMAIN, m.powenxue15.com
-  - DOMAIN, m.shencou.com
-  - DOMAIN, m.tianzhangs.com
-  - DOMAIN, m.txtduo.org
-  - DOMAIN, m.uhuxs.com
-  - DOMAIN, m.uuwx.la
-  - DOMAIN, m.wenkuchina.com
-  - DOMAIN, m.wenxuedu.net
-  - DOMAIN, m.wenxuedu.org
-  - DOMAIN, m.x33yq.org
-  - DOMAIN, m.yqxz.org
-  - DOMAIN, txtzw.net
-  - DOMAIN, wap.ddsk.la
-  - DOMAIN, wap.jhssd.com
-  - DOMAIN, wap.qiliuwx.com
-  - DOMAIN, wap.washuwx.com
-  - DOMAIN, wap.washuwx.net
-  - DOMAIN, wap.xuanyge.org
-  - DOMAIN, wap.zwkan.cc
-  - DOMAIN, wap.zwkan.com
-  - DOMAIN, www.66wx.org
-  - DOMAIN, www.88haoshu.com
-  - DOMAIN, www.92xs.info
-  - DOMAIN, www.aabook.cyou
-  - DOMAIN, www.aahhss.com
-  - DOMAIN, www.aakkrr.com
-  - DOMAIN, www.ailewx.com
-  - DOMAIN, www.alicesw.com
-  - DOMAIN, www.banzhu11111.com
-  - DOMAIN, www.banzhu222222.com
-  - DOMAIN, www.bilinovel.com
-  - DOMAIN, www.bookbenx.cc
-  - DOMAIN, www.buxia.org
-  - DOMAIN, www.bxwx.live
-  - DOMAIN, www.chamabooks.net
-  - DOMAIN, www.cxinbz.com
-  - DOMAIN, www.dawensk.com
-  - DOMAIN, www.deqixs.com
-  - DOMAIN, www.flydoing.cc
-  - DOMAIN, www.flydoing.com
-  - DOMAIN, www.fushucun.com
-  - DOMAIN, www.gashuw.com
-  - DOMAIN, www.haitang77.com
-  - DOMAIN, www.hdwx.net
-  - DOMAIN, www.ibookben.net
-  - DOMAIN, www.jdzwo.com
-  - DOMAIN, www.liudatxt.org
-  - DOMAIN, www.mayitxt.org
-  - DOMAIN, www.mayiwsk.com
-  - DOMAIN, www.mgyqw.com
-  - DOMAIN, www.niwozw.com
-  - DOMAIN, www.qiluwx.com
-  - DOMAIN, www.quanben.so
-  - DOMAIN, www.rourouwu.in
-  - DOMAIN, www.shugelou.org
-  - DOMAIN, www.shuyy8.cc
-  - DOMAIN, www.sososhu.com
-  - DOMAIN, www.sseegg.com
-  - DOMAIN, www.szhhlt.com
-  - DOMAIN, www.tcmaoxin.org
-  - DOMAIN, www.texasreadyblog.net
-  - DOMAIN, www.uaa004.com
-  - DOMAIN, www.ujxsw.net
-  - DOMAIN, www.ujxsw.org
-  - DOMAIN, www.x23us.cc
-  - DOMAIN, www.x81zws.com
-  - DOMAIN, www.xgbqiuge.com
-  - DOMAIN, www.xguolu88.com
-  - DOMAIN, www.xheiyan.info
-  - DOMAIN, www.xiumb12.com
-  - DOMAIN, www.xmayitxt.com
-  - DOMAIN, www.xshumilou.net
-  - DOMAIN, www.xtangsanshu.com
-  - DOMAIN, www.yanxuanwk.com
-  - DOMAIN, www.yiruan.info
-  - DOMAIN, www.yuezibaomush1.com
-  - DOMAIN, www.zmtt.net
-  - DOMAIN, www.zwduxs.com
-  - DOMAIN, www.zzs5.com
-  - DOMAIN, www.zzs5.net
-  - DOMAIN, yaoluxs.com
+  - DOMAIN,www.tycqzw.la
+  - DOMAIN,alicesw.org
+  - DOMAIN,api.basusan.com
+  - DOMAIN,api.dswang.org
+  - DOMAIN,fapi.fanxxs.com
+  - DOMAIN,luoxiadushu.com
+  - DOMAIN,m.18ys.net
+  - DOMAIN,m.1qxs.com
+  - DOMAIN,m.20xs.org
+  - DOMAIN,m.23hh.la
+  - DOMAIN,m.bayizww.com
+  - DOMAIN,m.bixiange.me
+  - DOMAIN,m.bxwxue.com
+  - DOMAIN,m.damaoli.com
+  - DOMAIN,m.diyibanzhu.buzz
+  - DOMAIN,m.douyinxs.com
+  - DOMAIN,m.hltxt.com
+  - DOMAIN,m.jingp.com
+  - DOMAIN,m.kekewx.com
+  - DOMAIN,m.miaobige.com
+  - DOMAIN,m.nshkedu.com
+  - DOMAIN,m.powenxue15.com
+  - DOMAIN,m.shencou.com
+  - DOMAIN,m.tianzhangs.com
+  - DOMAIN,m.txtduo.org
+  - DOMAIN,m.uhuxs.com
+  - DOMAIN,m.uuwx.la
+  - DOMAIN,m.wenkuchina.com
+  - DOMAIN,m.wenxuedu.net
+  - DOMAIN,m.wenxuedu.org
+  - DOMAIN,m.x33yq.org
+  - DOMAIN,m.yqxz.org
+  - DOMAIN,txtzw.net
+  - DOMAIN,wap.ddsk.la
+  - DOMAIN,wap.jhssd.com
+  - DOMAIN,wap.qiliuwx.com
+  - DOMAIN,wap.washuwx.com
+  - DOMAIN,wap.washuwx.net
+  - DOMAIN,wap.xuanyge.org
+  - DOMAIN,wap.zwkan.cc
+  - DOMAIN,wap.zwkan.com
+  - DOMAIN,www.66wx.org
+  - DOMAIN,www.88haoshu.com
+  - DOMAIN,www.92xs.info
+  - DOMAIN,www.aabook.cyou
+  - DOMAIN,www.aahhss.com
+  - DOMAIN,www.aakkrr.com
+  - DOMAIN,www.ailewx.com
+  - DOMAIN,www.alicesw.com
+  - DOMAIN,www.banzhu11111.com
+  - DOMAIN,www.banzhu222222.com
+  - DOMAIN,www.bilinovel.com
+  - DOMAIN,www.bookbenx.cc
+  - DOMAIN,www.buxia.org
+  - DOMAIN,www.bxwx.live
+  - DOMAIN,www.chamabooks.net
+  - DOMAIN,www.cxinbz.com
+  - DOMAIN,www.dawensk.com
+  - DOMAIN,www.deqixs.com
+  - DOMAIN,www.flydoing.cc
+  - DOMAIN,www.flydoing.com
+  - DOMAIN,www.fushucun.com
+  - DOMAIN,www.gashuw.com
+  - DOMAIN,www.haitang77.com
+  - DOMAIN,www.hdwx.net
+  - DOMAIN,www.ibookben.net
+  - DOMAIN,www.jdzwo.com
+  - DOMAIN,www.liudatxt.org
+  - DOMAIN,www.mayitxt.org
+  - DOMAIN,www.mayiwsk.com
+  - DOMAIN,www.mgyqw.com
+  - DOMAIN,www.niwozw.com
+  - DOMAIN,www.qiluwx.com
+  - DOMAIN,www.quanben.so
+  - DOMAIN,www.rourouwu.in
+  - DOMAIN,www.shugelou.org
+  - DOMAIN,www.shuyy8.cc
+  - DOMAIN,www.sososhu.com
+  - DOMAIN,www.sseegg.com
+  - DOMAIN,www.szhhlt.com
+  - DOMAIN,www.tcmaoxin.org
+  - DOMAIN,www.texasreadyblog.net
+  - DOMAIN,www.uaa004.com
+  - DOMAIN,www.ujxsw.net
+  - DOMAIN,www.ujxsw.org
+  - DOMAIN,www.x23us.cc
+  - DOMAIN,www.x81zws.com
+  - DOMAIN,www.xgbqiuge.com
+  - DOMAIN,www.xguolu88.com
+  - DOMAIN,www.xheiyan.info
+  - DOMAIN,www.xiumb12.com
+  - DOMAIN,www.xmayitxt.com
+  - DOMAIN,www.xshumilou.net
+  - DOMAIN,www.xtangsanshu.com
+  - DOMAIN,www.yanxuanwk.com
+  - DOMAIN,www.yiruan.info
+  - DOMAIN,www.yuezibaomush1.com
+  - DOMAIN,www.zmtt.net
+  - DOMAIN,www.zwduxs.com
+  - DOMAIN,www.zzs5.com
+  - DOMAIN,www.zzs5.net
+  - DOMAIN,yaoluxs.com
