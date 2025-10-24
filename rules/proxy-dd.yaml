@@ -1,6 +1,5 @@
 # 自建直连规则集
 payload:
-  - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,revanced.net
   - DOMAIN-SUFFIX,roum22.xyz
   - DOMAIN-SUFFIX,cloudflare.com
@@ -12,7 +11,10 @@ payload:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,v1.mk
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,yunwu2.cn
+  - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,jmcomic-zzz
+  - DOMAIN-KEYWORD,jm18c-cvb
+  - DOMAIN-KEYWORD,jm18c-tyu
   - DOMAIN-SUFFIX,xn--9kqy04a1z3alor.com
   - DOMAIN-KEYWORD,tmdb
   - DOMAIN-SUFFIX,themoviedb.org
