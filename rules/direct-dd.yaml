@@ -122,4 +122,9 @@ payload:
   - DOMAIN-SUFFIX,yaoluxs.com
   - DOMAIN-SUFFIX,qududu.com
   - DOMAIN-SUFFIX,88xiaoshuo.net
+<<<<<<< HEAD
   - DOMAIN-SUFFIX,elkoparts.net
+=======
+  - DOMAIN-SUFFIX,elkoparts.net
+  - DOMAIN-SUFFIX,8biquge.com
+>>>>>>> d55016b (dd)
