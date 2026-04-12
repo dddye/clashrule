@@ -1,0 +1,9 @@
+# 自建专用规则集
+payload:
+  - DOMAIN-SUFFIX,rmcdn5.xyz
+  - DOMAIN-SUFFIX,rmcdn6.xyz
+  - DOMAIN-SUFFIX,rmcdn7.xyz
+  - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,jmcomic-zzz
+  - DOMAIN-KEYWORD,jm18c-cvb
+  - DOMAIN-KEYWORD,jm18c-tyu
