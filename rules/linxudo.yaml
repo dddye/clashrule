@@ -1,0 +1,16 @@
+# 自建直连规则集
+payload:
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,windhub.cc
+  - DOMAIN-SUFFIX,88996api.cloud
+  - DOMAIN-SUFFIX,ai.huaibao.top
+  - DOMAIN-SUFFIX,lpgpt.us
+  - DOMAIN-SUFFIX,ai.muapi.cn
+  - DOMAIN-SUFFIX,new-api.abrdns.com
+  - DOMAIN-SUFFIX,elysiver.h-e.top
+  - DOMAIN-SUFFIX,de5.net
+  - DOMAIN-SUFFIX,nxt-url.com
+  - DOMAIN-SUFFIX,qlhazycoder.top
+  - DOMAIN-SUFFIX,hezu.ink
+  - DOMAIN-SUFFIX,v.ua
+  - DOMAIN-SUFFIX,pp.ua
