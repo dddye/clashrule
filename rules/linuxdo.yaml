@@ -3,14 +3,22 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,windhub.cc
   - DOMAIN-SUFFIX,88996api.cloud
-  - DOMAIN-SUFFIX,ai.huaibao.top
+  - DOMAIN-SUFFIX,huaibao.top
   - DOMAIN-SUFFIX,lpgpt.us
-  - DOMAIN-SUFFIX,ai.muapi.cn
-  - DOMAIN-SUFFIX,new-api.abrdns.com
-  - DOMAIN-SUFFIX,elysiver.h-e.top
+  - DOMAIN-SUFFIX,muapi.cn
+  - DOMAIN-SUFFIX,abrdns.com
+  - DOMAIN-SUFFIX,h-e.top
   - DOMAIN-SUFFIX,de5.net
-  - DOMAIN-SUFFIX,nxt-url.com
+  - DOMAIN-SUFFIX,xt-url.com
   - DOMAIN-SUFFIX,qlhazycoder.top
   - DOMAIN-SUFFIX,hezu.ink
   - DOMAIN-SUFFIX,v.ua
   - DOMAIN-SUFFIX,pp.ua
+  - DOMAIN-SUFFIX,anyrouter.top
+  - DOMAIN-SUFFIX,42w.shop
+  - DOMAIN-SUFFIX,215.im
+  - DOMAIN-SUFFIX,eu.cc
+  - DOMAIN-SUFFIX,huan666.de
+  - DOMAIN-SUFFIX,ggff.net
+  - DOMAIN-SUFFIX,lyclaude.site
+  - DOMAIN-SUFFIX,chybenzun.top
